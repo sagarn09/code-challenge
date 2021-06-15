@@ -14,7 +14,7 @@ Installation
 Pre requisite to build the solution
 
     Azure subscription.
-    Azure service principle
+    Azure service principal
     Terraform open source installed , azure CLI or Powershell
 
 Architecture:
